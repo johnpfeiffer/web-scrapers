@@ -31,3 +31,9 @@ PYTHON/
 
 `cd PYTHON; python get_with_headers.py`
 
+
+# Other Info
+
+<https://blog.john-pfeiffer.com/wget-curl-get-ip-timeout-backup-download-site-including-images/>
+
+
