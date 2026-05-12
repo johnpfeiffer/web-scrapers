@@ -1,3 +1,5 @@
+
+# C stuff ###########
 # Prerequisites
 *.d
 
@@ -11,6 +13,7 @@
 *.ilk
 *.map
 *.exp
+*.exe
 
 # Precompiled Headers
 *.gch
@@ -53,3 +56,4 @@ dkms.conf
 
 # debug information files
 *.dwo
+
